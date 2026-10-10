@@ -1,0 +1,6 @@
+{
+  "name": "EL WASTA WAY - الوَسطة واي",
+  "description": "تطبيق طلب وتوصيل الطلبات والرحلات المحلي الأول في مصر بالدراجات النارية والتوك توك - Egypt motorcycle & tuk-tuk local delivery platform",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
